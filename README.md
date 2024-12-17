@@ -19,9 +19,7 @@ This repository contains code and documentation for a machine learning-based fau
 **Getting Started:**
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/fault-detection-power-system.git
-   ```
+ 
 2. **Set Up Environment:**
    Install required libraries (e.g., TensorFlow, PyTorch, Scikit-learn) and set up the development environment.
 3. **Data Preparation:**
@@ -35,14 +33,6 @@ This repository contains code and documentation for a machine learning-based fau
 
 We welcome contributions to this project. Please feel free to fork the repository, make improvements, and submit pull requests.
 
-**License:**
-[Specify the license, e.g., MIT, Apache 2.0]
 
-**Note:**
 
-* Replace `your-username` with your actual GitHub username.
-* Customize the description to match the specific features and functionalities of your project.
-* Consider adding more details about the dataset used, the specific machine learning algorithms implemented, and the evaluation metrics employed.
-* Include clear instructions on how to run the code, train the models, and deploy the system.
 
-By providing a clear and concise description, you can attract potential contributors and users to your project.
